@@ -1,0 +1,39 @@
+.scrolling-time{
+    width: 200px;
+    text-align: center;
+}
+.scrolling-time-title{
+    color:rgb(252,108,68);
+
+}
+.scrolling-time-body{
+    height: 120px;
+    overflow-y: scroll;
+}
+/* Hide scrollbar for Chrome, Safari and Opera */
+.scrolling-time-body::-webkit-scrollbar {
+    display: none;
+
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.scrolling-time-body {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+
+.time-div{
+    text-align: center;
+    height: 30px;
+}
+
+
+
+
+.time-hr{
+    border-color: rgb(91,107,200);
+}
+
+arrival{
+
+}
